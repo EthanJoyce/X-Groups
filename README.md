@@ -1,3 +1,4 @@
+[![travis-ci build status](https://travis-ci.org/mrlolethan/X-Groups.svg)](https://travis-ci.org/mrlolethan/X-Groups)
 # X-Groups
 A Bukkit group manager plugin for networks.
 
