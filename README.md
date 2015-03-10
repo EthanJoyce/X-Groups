@@ -13,3 +13,7 @@ The packaged byte code can be found in `build/lib/`.
 
 ## License
 This project is licensed under the GNU Lesser General Public License version 3.0. A copy of the license is attached to this project, or can be obtained at https://www.gnu.org/licenses/lgpl.html.
+
+## Links
+- [Nightly builds](http://ci.mrlolethan.com/job/X-Groups/)
+- [Continuous Integration (Travis CI)](https://travis-ci.org/mrlolethan/X-Groups)
