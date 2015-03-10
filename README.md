@@ -17,3 +17,6 @@ This project is licensed under the GNU Lesser General Public License version 3.0
 ## Links
 - [Nightly builds](http://ci.mrlolethan.com/job/X-Groups/)
 - [Continuous Integration (Travis CI)](https://travis-ci.org/mrlolethan/X-Groups)
+
+## Downloads
+- [Latest Nightly build](http://ci.mrlolethan.com/job/X-Groups/lastSuccessfulBuild/artifact/build/libs/X-Groups.jar)
