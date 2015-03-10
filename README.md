@@ -2,6 +2,12 @@
 # X-Groups
 A Bukkit group manager plugin for networks.
 
+## Index
+1. [Building](#building)
+2. [License](#license)
+3. [Links](#links)
+4. [Downloads](#downloads)
+
 ## Building
 This project uses Gradle to manage the build process. A typical build of this project would look like this:
 ```
